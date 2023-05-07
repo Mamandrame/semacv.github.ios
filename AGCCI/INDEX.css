@@ -1,0 +1,19 @@
+body{
+    background-color: antiquewhite;
+}
+p{
+   font-size: 16px; 
+}
+p{
+    color: rgb(187, 104, 115);
+}
+h1{
+    background-color: rgb(221, 99, 99);
+    font-style: inherit;
+}
+p:hover{
+    color: blue;
+}
+h2{
+    color: rgb(64, 64, 189);
+}
